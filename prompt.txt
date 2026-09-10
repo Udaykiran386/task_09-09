@@ -1,0 +1,5 @@
+"Build a Python project that connects PostgreSQL (via pgAdmin) to Python using libraries like psycopg2 . 
+Organize the code into separate files: one for database connection, one for table creation, 
+and individual files for each CRUD operation (insert, fetch, update, delete). 
+The project should manage student details with fields such as ID, name, age, and grade, and demonstrate 
+all possible operations through Python functions."
